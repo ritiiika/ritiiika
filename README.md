@@ -39,19 +39,7 @@
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
 
-## ✦ Vibe Check
-
-| ✧ | |
-|---|---|
-| 🎨 **Aesthetic** | Vice City neon × dusty-lavender Y2K |
-| 🎧 **On repeat** | ✏️ *add your playlist / artist* |
-| ☕ **Fuel** | ✏️ *chai? coffee? add yours* |
-| 🌸 **Off-screen** | ✏️ *hobbies, sketching, travel... add yours* |
-| 💬 **Ask me about** | React, Spring Boot, AWS Lambda, DSA |
-
-<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## ✦ Tech Stack
 
